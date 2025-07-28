@@ -1,0 +1,5 @@
+﻿mediapipe==0.10.8
+opencv-python==4.8.1.78
+dlib==19.24.2
+numpy==1.24.3
+pywin32==306

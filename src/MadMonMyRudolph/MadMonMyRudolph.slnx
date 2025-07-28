@@ -1,0 +1,16 @@
+<Solution>
+  <Folder Name="/Core/">
+    <Project Path="MadMonMyRudolph.Abstractions/MadMonMyRudolph.Abstractions.csproj" Id="4b653cb2-6039-4fa3-adbf-1cf884e28908" />
+    <Project Path="MadMonMyRudolph.Core/MadMonMyRudolph.Core.csproj" Id="b38291f5-ddcd-48c3-9f2c-dd85b007510a" />
+    <Project Path="MadMonMyRudolph.Python/MadMonMyRudolph.Python.csproj" Id="6d6f5f15-80a3-4920-9bff-863d63163a8b" />
+  </Folder>
+  <Folder Name="/WPF/">
+    <Project Path="MadMonMyRudolph.Wpf.Abstractions/MadMonMyRudolph.Wpf.Abstractions.csproj" Id="c40bb96f-9687-4027-97c3-6f4144fd211e" />
+    <Project Path="MadMonMyRudolph.Wpf.Controls/MadMonMyRudolph.Wpf.Controls.csproj" />
+    <Project Path="MadMonMyRudolph.Wpf.Core/MadMonMyRudolph.Wpf.Core.csproj" Id="0afd9bc7-29d8-4708-bd20-7122832c900d" />
+    <Project Path="MadMonMyRudolph.Wpf/MadMonMyRudolph.Wpf.csproj" />
+  </Folder>
+  <Folder Name="/솔루션 항목/">
+    <File Path="Readme.md" />
+  </Folder>
+</Solution>
